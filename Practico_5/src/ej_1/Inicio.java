@@ -60,7 +60,7 @@ public class Inicio {
 		
 		
 		System.out.println("Se agrego "  + item1.getCantidad() + " unidades del producto "+ item1.getCodigo_prod() + "-" + item1.getNombre_prod()); 
-		System.out.println(carrito1.get(0));
+		//System.out.println(carrito1.get(0));
 		
 	}
 
